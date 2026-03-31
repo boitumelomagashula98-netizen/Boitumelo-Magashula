@@ -1,7 +1,4 @@
-# Boitumelo-Magashula
-My first personal website built to practice HTML, CSS, and JavaScript
-
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Boitumelo-Magashula 👋
 
 🔭 I’m currently working on
 - My first personal website project to practice HTML, CSS, and JavaScript
